@@ -36,3 +36,4 @@ api-gateway/volume-data/mysql_keycloak_data/mysql.sock
 api-gateway/volume-data/mysql_keycloak_data/*.sock
 docker/mysql/data/mysql.sock
 inventory-service/docker/mysql/data/mysql.sock
+order-service/mysql/mysql.sock
