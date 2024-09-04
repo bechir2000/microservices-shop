@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: api-gateway
-          image: bechir200/new-api-gateway:latest
+          image: bechir200/api-gateway:v1.0
           ports:
             - containerPort: 9000
           env:

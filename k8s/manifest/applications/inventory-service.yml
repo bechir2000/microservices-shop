@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: inventory-service
-          image: bechir200/new-inventory-service:latest
+          image: bechir200/inventory-service:v1.0
           env:
             - name: SPRING_DATASOURCE_URL
               valueFrom:
